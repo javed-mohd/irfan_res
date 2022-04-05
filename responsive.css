@@ -1,0 +1,106 @@
+@media only screen and (max-width: 600px) {
+  .row_fir {
+    padding-top: 6em;
+    padding-bottom: 4em;
+  }
+  .hero {
+    height: auto;
+  }
+  .exp_phone {
+    display: inline-block !important;
+  }
+  .last_3 {
+    display: none !important;
+    opacity: 0px !important;
+  }
+  .h-1 {
+    font-size: 28px;
+    line-height: 28px;
+ }
+ .about_me {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.img_abt {
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+}
+.type {
+    font-size: 30px !important;
+}
+.name {
+    margin-bottom: 40px;
+}
+.h_1 {
+    font-size: 28px;
+}
+.sp_1 {
+    color: #042825;
+    margin-left: 14.4em !important;
+}
+.sp_2 {
+    color: #042825;
+    margin-left: 14.5em;
+}
+.sp_3 {
+    color: #042825; margin-left: 14.4em;
+}
+.sp_4 {
+    color: #042825; margin-left: 14.4em;
+}
+ 
+.exp_edu h2 {
+    font-size: 32px;
+    line-height: 34px;
+}
+.spa_exp {
+    margin-left: 2em;
+}
+.h6_exp {
+    margin-top: 14px;
+}
+.spa_gra {
+    margin-left: 9.4em;
+}
+.education {
+    margin-top: 30px;
+}
+.height_top {
+    height: auto !important;
+}
+.spa_2 {
+    margin-left: 14em !important;
+}
+/*.do_od{
+  margin-top: 30px !important;
+  margin-left: ;
+  }*/
+.do_od_2 {
+    margin-left: 9.3em !important;
+}
+.non_non {
+   display: block;
+}
+.non {
+    margin-top: 15px;
+}
+.non_2 {
+    margin-left: 9.2em;
+}
+.slider {
+    display: none;
+}
+.la_responsive
+{
+  display: flex;
+  justify-content: space-between;
+}
+ .exp_edu .col_first {
+    height: 220px;
+}
+}
+.footer {
+    height: auto;
+}
+}

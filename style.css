@@ -175,10 +175,6 @@ label {
   line-height: 40px;
   font-weight: bold;
 }
-.intern {
-  font-family: "Barlow", sans-serif;
-  font-size: 12px;
-}
 .exp_edu .col-md-12 {
   width: 100%;
   padding: 20px 15px;
@@ -220,7 +216,7 @@ label {
   display: flex;
 }
 .spa_2 {
-  margin-left: 7em !important;
+  margin-left: 7.5em !important;
 }
 .spa_3 {
   margin-left: 6em;

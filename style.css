@@ -291,6 +291,7 @@ label {
   text-transform: uppercase;
 }
 .services .card {
+  height: 355px; 
   padding: 120px 50px 120px 50px;
   border-radius: 0px !important;
   text-align: center;

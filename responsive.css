@@ -97,8 +97,11 @@
   justify-content: space-between;
 }
  .exp_edu .col_first {
-    height: 220px;
+    height: auto;
 }
+  .exp_edu p {
+    margin-bottum: 0px;
+  }
 }
 .footer {
     height: auto;
